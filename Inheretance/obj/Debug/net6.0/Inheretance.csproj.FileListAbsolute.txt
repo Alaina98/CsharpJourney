@@ -1,0 +1,15 @@
+C:\Users\Sulaiman Aladawi\source\repos\Inheretance\Inheretance\bin\Debug\net6.0\Inheretance.exe
+C:\Users\Sulaiman Aladawi\source\repos\Inheretance\Inheretance\bin\Debug\net6.0\Inheretance.deps.json
+C:\Users\Sulaiman Aladawi\source\repos\Inheretance\Inheretance\bin\Debug\net6.0\Inheretance.runtimeconfig.json
+C:\Users\Sulaiman Aladawi\source\repos\Inheretance\Inheretance\bin\Debug\net6.0\Inheretance.dll
+C:\Users\Sulaiman Aladawi\source\repos\Inheretance\Inheretance\bin\Debug\net6.0\Inheretance.pdb
+C:\Users\Sulaiman Aladawi\source\repos\Inheretance\Inheretance\obj\Debug\net6.0\Inheretance.csproj.AssemblyReference.cache
+C:\Users\Sulaiman Aladawi\source\repos\Inheretance\Inheretance\obj\Debug\net6.0\Inheretance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sulaiman Aladawi\source\repos\Inheretance\Inheretance\obj\Debug\net6.0\Inheretance.AssemblyInfoInputs.cache
+C:\Users\Sulaiman Aladawi\source\repos\Inheretance\Inheretance\obj\Debug\net6.0\Inheretance.AssemblyInfo.cs
+C:\Users\Sulaiman Aladawi\source\repos\Inheretance\Inheretance\obj\Debug\net6.0\Inheretance.csproj.CoreCompileInputs.cache
+C:\Users\Sulaiman Aladawi\source\repos\Inheretance\Inheretance\obj\Debug\net6.0\Inheretance.dll
+C:\Users\Sulaiman Aladawi\source\repos\Inheretance\Inheretance\obj\Debug\net6.0\refint\Inheretance.dll
+C:\Users\Sulaiman Aladawi\source\repos\Inheretance\Inheretance\obj\Debug\net6.0\Inheretance.pdb
+C:\Users\Sulaiman Aladawi\source\repos\Inheretance\Inheretance\obj\Debug\net6.0\Inheretance.genruntimeconfig.cache
+C:\Users\Sulaiman Aladawi\source\repos\Inheretance\Inheretance\obj\Debug\net6.0\ref\Inheretance.dll
