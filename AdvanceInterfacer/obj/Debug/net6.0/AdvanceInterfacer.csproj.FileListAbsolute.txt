@@ -1,0 +1,15 @@
+C:\Users\Sulaiman Aladawi\source\repos\AdvanceInterfacer\AdvanceInterfacer\bin\Debug\net6.0\AdvanceInterfacer.exe
+C:\Users\Sulaiman Aladawi\source\repos\AdvanceInterfacer\AdvanceInterfacer\bin\Debug\net6.0\AdvanceInterfacer.deps.json
+C:\Users\Sulaiman Aladawi\source\repos\AdvanceInterfacer\AdvanceInterfacer\bin\Debug\net6.0\AdvanceInterfacer.runtimeconfig.json
+C:\Users\Sulaiman Aladawi\source\repos\AdvanceInterfacer\AdvanceInterfacer\bin\Debug\net6.0\AdvanceInterfacer.dll
+C:\Users\Sulaiman Aladawi\source\repos\AdvanceInterfacer\AdvanceInterfacer\bin\Debug\net6.0\AdvanceInterfacer.pdb
+C:\Users\Sulaiman Aladawi\source\repos\AdvanceInterfacer\AdvanceInterfacer\obj\Debug\net6.0\AdvanceInterfacer.csproj.AssemblyReference.cache
+C:\Users\Sulaiman Aladawi\source\repos\AdvanceInterfacer\AdvanceInterfacer\obj\Debug\net6.0\AdvanceInterfacer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sulaiman Aladawi\source\repos\AdvanceInterfacer\AdvanceInterfacer\obj\Debug\net6.0\AdvanceInterfacer.AssemblyInfoInputs.cache
+C:\Users\Sulaiman Aladawi\source\repos\AdvanceInterfacer\AdvanceInterfacer\obj\Debug\net6.0\AdvanceInterfacer.AssemblyInfo.cs
+C:\Users\Sulaiman Aladawi\source\repos\AdvanceInterfacer\AdvanceInterfacer\obj\Debug\net6.0\AdvanceInterfacer.csproj.CoreCompileInputs.cache
+C:\Users\Sulaiman Aladawi\source\repos\AdvanceInterfacer\AdvanceInterfacer\obj\Debug\net6.0\AdvanceInterfacer.dll
+C:\Users\Sulaiman Aladawi\source\repos\AdvanceInterfacer\AdvanceInterfacer\obj\Debug\net6.0\refint\AdvanceInterfacer.dll
+C:\Users\Sulaiman Aladawi\source\repos\AdvanceInterfacer\AdvanceInterfacer\obj\Debug\net6.0\AdvanceInterfacer.pdb
+C:\Users\Sulaiman Aladawi\source\repos\AdvanceInterfacer\AdvanceInterfacer\obj\Debug\net6.0\AdvanceInterfacer.genruntimeconfig.cache
+C:\Users\Sulaiman Aladawi\source\repos\AdvanceInterfacer\AdvanceInterfacer\obj\Debug\net6.0\ref\AdvanceInterfacer.dll
