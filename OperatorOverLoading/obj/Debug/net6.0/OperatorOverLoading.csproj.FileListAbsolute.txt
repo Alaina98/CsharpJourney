@@ -1,0 +1,15 @@
+C:\Users\Sulaiman Aladawi\source\repos\OperatorOverLoading\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.csproj.AssemblyReference.cache
+C:\Users\Sulaiman Aladawi\source\repos\OperatorOverLoading\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sulaiman Aladawi\source\repos\OperatorOverLoading\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.AssemblyInfoInputs.cache
+C:\Users\Sulaiman Aladawi\source\repos\OperatorOverLoading\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.AssemblyInfo.cs
+C:\Users\Sulaiman Aladawi\source\repos\OperatorOverLoading\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.csproj.CoreCompileInputs.cache
+C:\Users\Sulaiman Aladawi\source\repos\OperatorOverLoading\OperatorOverLoading\bin\Debug\net6.0\OperatorOverLoading.exe
+C:\Users\Sulaiman Aladawi\source\repos\OperatorOverLoading\OperatorOverLoading\bin\Debug\net6.0\OperatorOverLoading.deps.json
+C:\Users\Sulaiman Aladawi\source\repos\OperatorOverLoading\OperatorOverLoading\bin\Debug\net6.0\OperatorOverLoading.runtimeconfig.json
+C:\Users\Sulaiman Aladawi\source\repos\OperatorOverLoading\OperatorOverLoading\bin\Debug\net6.0\OperatorOverLoading.dll
+C:\Users\Sulaiman Aladawi\source\repos\OperatorOverLoading\OperatorOverLoading\bin\Debug\net6.0\OperatorOverLoading.pdb
+C:\Users\Sulaiman Aladawi\source\repos\OperatorOverLoading\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.dll
+C:\Users\Sulaiman Aladawi\source\repos\OperatorOverLoading\OperatorOverLoading\obj\Debug\net6.0\refint\OperatorOverLoading.dll
+C:\Users\Sulaiman Aladawi\source\repos\OperatorOverLoading\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.pdb
+C:\Users\Sulaiman Aladawi\source\repos\OperatorOverLoading\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.genruntimeconfig.cache
+C:\Users\Sulaiman Aladawi\source\repos\OperatorOverLoading\OperatorOverLoading\obj\Debug\net6.0\ref\OperatorOverLoading.dll
