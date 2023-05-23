@@ -1,0 +1,15 @@
+C:\Users\Sulaiman Aladawi\source\repos\multiDelegate\multiDelegate\bin\Debug\net6.0\multiDelegate.exe
+C:\Users\Sulaiman Aladawi\source\repos\multiDelegate\multiDelegate\bin\Debug\net6.0\multiDelegate.deps.json
+C:\Users\Sulaiman Aladawi\source\repos\multiDelegate\multiDelegate\bin\Debug\net6.0\multiDelegate.runtimeconfig.json
+C:\Users\Sulaiman Aladawi\source\repos\multiDelegate\multiDelegate\bin\Debug\net6.0\multiDelegate.dll
+C:\Users\Sulaiman Aladawi\source\repos\multiDelegate\multiDelegate\bin\Debug\net6.0\multiDelegate.pdb
+C:\Users\Sulaiman Aladawi\source\repos\multiDelegate\multiDelegate\obj\Debug\net6.0\multiDelegate.csproj.AssemblyReference.cache
+C:\Users\Sulaiman Aladawi\source\repos\multiDelegate\multiDelegate\obj\Debug\net6.0\multiDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sulaiman Aladawi\source\repos\multiDelegate\multiDelegate\obj\Debug\net6.0\multiDelegate.AssemblyInfoInputs.cache
+C:\Users\Sulaiman Aladawi\source\repos\multiDelegate\multiDelegate\obj\Debug\net6.0\multiDelegate.AssemblyInfo.cs
+C:\Users\Sulaiman Aladawi\source\repos\multiDelegate\multiDelegate\obj\Debug\net6.0\multiDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Sulaiman Aladawi\source\repos\multiDelegate\multiDelegate\obj\Debug\net6.0\multiDelegate.dll
+C:\Users\Sulaiman Aladawi\source\repos\multiDelegate\multiDelegate\obj\Debug\net6.0\refint\multiDelegate.dll
+C:\Users\Sulaiman Aladawi\source\repos\multiDelegate\multiDelegate\obj\Debug\net6.0\multiDelegate.pdb
+C:\Users\Sulaiman Aladawi\source\repos\multiDelegate\multiDelegate\obj\Debug\net6.0\multiDelegate.genruntimeconfig.cache
+C:\Users\Sulaiman Aladawi\source\repos\multiDelegate\multiDelegate\obj\Debug\net6.0\ref\multiDelegate.dll
