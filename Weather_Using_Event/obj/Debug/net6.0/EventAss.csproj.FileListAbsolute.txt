@@ -1,0 +1,15 @@
+C:\Users\Sulaiman Aladawi\source\repos\EventAss\EventAss\bin\Debug\net6.0\EventAss.exe
+C:\Users\Sulaiman Aladawi\source\repos\EventAss\EventAss\bin\Debug\net6.0\EventAss.deps.json
+C:\Users\Sulaiman Aladawi\source\repos\EventAss\EventAss\bin\Debug\net6.0\EventAss.runtimeconfig.json
+C:\Users\Sulaiman Aladawi\source\repos\EventAss\EventAss\bin\Debug\net6.0\EventAss.dll
+C:\Users\Sulaiman Aladawi\source\repos\EventAss\EventAss\bin\Debug\net6.0\EventAss.pdb
+C:\Users\Sulaiman Aladawi\source\repos\EventAss\EventAss\obj\Debug\net6.0\EventAss.csproj.AssemblyReference.cache
+C:\Users\Sulaiman Aladawi\source\repos\EventAss\EventAss\obj\Debug\net6.0\EventAss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sulaiman Aladawi\source\repos\EventAss\EventAss\obj\Debug\net6.0\EventAss.AssemblyInfoInputs.cache
+C:\Users\Sulaiman Aladawi\source\repos\EventAss\EventAss\obj\Debug\net6.0\EventAss.AssemblyInfo.cs
+C:\Users\Sulaiman Aladawi\source\repos\EventAss\EventAss\obj\Debug\net6.0\EventAss.csproj.CoreCompileInputs.cache
+C:\Users\Sulaiman Aladawi\source\repos\EventAss\EventAss\obj\Debug\net6.0\EventAss.dll
+C:\Users\Sulaiman Aladawi\source\repos\EventAss\EventAss\obj\Debug\net6.0\refint\EventAss.dll
+C:\Users\Sulaiman Aladawi\source\repos\EventAss\EventAss\obj\Debug\net6.0\EventAss.pdb
+C:\Users\Sulaiman Aladawi\source\repos\EventAss\EventAss\obj\Debug\net6.0\EventAss.genruntimeconfig.cache
+C:\Users\Sulaiman Aladawi\source\repos\EventAss\EventAss\obj\Debug\net6.0\ref\EventAss.dll
